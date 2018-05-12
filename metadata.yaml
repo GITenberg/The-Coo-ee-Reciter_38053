@@ -1,0 +1,49 @@
+_repo: The-Coo-ee-Reciter_38053
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38053-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2011-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38053'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Recitations'
+- !lcsh 'Literature -- Collections'
+- !lcc 'PS'
+- !lcc 'PR'
+tableOfContents: I killed a man at Graspan / M. Grover -- Kitty O'Toole / W. L. Lumley
+  -- The ballad of the drover / Henry Lawson -- The rescue / Edward Dyson -- Saltbush
+  Bill / A. B. Paterson -- Drought and doctrine / J. Brunton Stevens -- The martyr
+  / Victor J. Daley -- The carrying of the baby / Ethel Turner -- The old gum / Florence
+  Bullivant -- Murphy shall not sing to-night / Montague Grover -- Christmas bells
+  / John B. O'Hara, M.A -- Wool is up / Garnet Walch -- Wool is down / Garnet Walch
+  -- The Highland Brigade buries its dead / Lieut.-Col. W. T. Reay -- Australia's
+  call to arms / John B. O'Hara, M.A -- Good news / Garnet Walch -- Free Trade v.
+  Protection / Garnet Walch -- The lion's cubs / Garnet Walch -- The little duchess
+  / Ethel Turner -- Australia's springtime / W. L. Lumley -- The man that saved the
+  match / David M'Kee Wright -- Ode for Commonwealth Day, 1st January, 1901 /    --
+  A desperate assault /    -- The game of life / John G. Saxe -- Prejudice / Charlotte
+  Perkins Stetson -- The poor and the rich / James Russell Lowell -- The engineer's
+  story /    -- Seeing's not believing / Thomas Haynes Bayley -- Caudle has been made
+  a Mason / Douglas Jerrold -- Mrs. Caudle's lecture / Douglas Jerrold -- Jim Bludso
+  / Colonel John Hay -- How Uncle Mose counted the eggs /    -- The negro baby's funeral
+  / Will Carleton -- Der shpider und der fly / Charles Follen Adams -- Lariat Bill
+  / G. W. H -- The elf child; or, Little Orphant Annie / James Whitcomb Riley -- Alonzo
+  the Brave and the Fair Imogene / Matthew Gregory Lewis (Monk Lewis) -- An all-around
+  intellectual man / Tom Masson -- Her ideal / Kate Masterson -- The happy farmer
+  / Mortimer C. Brown -- The son of a soldier / Owen Oliver -- The mile / David M'Kee
+  Wright.
+title: 'The Coo-ee Reciter: Humorous, Pathetic, Dramatic, Dialect, Recitations & Readings'
+url: http://www.gutenberg.org/ebooks/38053
